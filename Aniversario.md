@@ -7,5 +7,5 @@ esses presentes sao um carro esses carros por exemplo (design)
 - Pagani Huayra (requisito)
 - McLaren Elva (requisito)
 - Czinger 21C (requisito)
-- Ferrari Monza<br></br> (requisito)
+- Ferrari Monza (requisito) <br></br> 
 Ou uma liberta pro clube de regatas do flamengo(design)
