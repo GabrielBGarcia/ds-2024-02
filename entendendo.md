@@ -23,4 +23,4 @@ Controle Remoto: Usuários podem monitorar e controlar dispositivos IoT de qualq
 ### Qual a distinção entre sistemas em geral e sistemas de software?
 *De acordo com a norma 12207:2017 um sistema de software é um sistema no qual o elemento software é de grande relevância para os interessados (stakeholders), possivelmente o principal elemento*. 
 
-*Ja um sistema pode ser qualquer conjunto de operações uniformes por exemplo uma família lavando louça onde uma mulher vai lavar a outra vai enxaguar e por fim uma vai enxugar*.
+*Ja um sistema pode ser qualquer conjunto de operações uniformes por exemplo uma família lavando louça onde um vai lavar a outra vai enxaguar e por fim uma vai enxugar*.
