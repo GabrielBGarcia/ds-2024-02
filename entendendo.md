@@ -24,3 +24,20 @@ Controle Remoto: Usuários podem monitorar e controlar dispositivos IoT de qualq
 *De acordo com a norma 12207:2017 um sistema de software é um sistema no qual o elemento software é de grande relevância para os interessados (stakeholders), possivelmente o principal elemento*. 
 
 *Ja um sistema pode ser qualquer conjunto de operações uniformes por exemplo uma família lavando louça onde um vai lavar a outra vai enxaguar e por fim uma vai enxugar*.
+
+### Distinção entre Conceito de Projeto
+#### Gerenciamento de Projetos:
+
+*Definição: Um esforço temporário para criar um produto ou resultado único*.
+*Objetivo: Completar o projeto dentro do escopo, prazo e orçamento definidos*.
+*Design de Software*:
+
+*Definição: Criação e documentação da estrutura e funcionalidades de um software*.
+*Objetivo: Desenvolver um software que atenda aos requisitos dos usuários e outras partes interessadas*.
+
+### Norma ISO/IEC/IEEE 42010:2022
+_Objetivo_: *Estabelece diretrizes para documentar e descrever arquiteturas de sistemas e software*.
+
+### Norma ISO/IEC 25010:2011
+_Objetivo_: *Define um modelo de qualidade para software, considerando várias partes interessadas e suas necessidades.
+Essas normas e conceitos ajudam a garantir que projetos e software atendam às expectativas e sejam bem documentados e avaliados*.
